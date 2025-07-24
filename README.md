@@ -25,14 +25,14 @@ I deliver complete end-to-end web solutions.
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AmanullahAU&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 ---
 
 ### 📫 Let's Connect
 
-- LinkedIn: [Your LinkedIn URL]
+- LinkedIn: [[Your LinkedIn URL](https://www.linkedin.com/in/amanullah-khan-17b862263/)]
 - Portfolio: [Your Portfolio URL]
 - Email: [your@email.com]
 
